@@ -202,8 +202,8 @@
       </div>
 
       <div id="content">
-	<div id="header">
-	  <h3>This is my First Project => <a href="http://localhost:3000/welcome/index">welcome controller</a></h3>
+	      <div id="header"><
+		      <h1>This is my First Project and Here is Home page</h1>
           <h1>Welcome aboard</h1>
           <h2>You&rsquo;re riding Ruby on Rails!</h2>
         </div>
